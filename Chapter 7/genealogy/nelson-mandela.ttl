@@ -1,0 +1,17 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <http://schema.org/> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://en.wikipedia.org/wiki/Nelson_Mandela> a schema:Person ;
+    schema:name "Nelson Rolihlahla Mandela" ;
+    schema:parent <http://personuid.info/3eaa6bd7-cfa0-4ded-a8f9-b745618bb4d2>,
+        <http://personuid.info/e8205b68-0af8-4faa-947d-0f22f3a3a77d> .
+
+<http://personuid.info/3eaa6bd7-cfa0-4ded-a8f9-b745618bb4d2> a schema:Person ;
+    schema:name "Nonqaphi Fanny Nosekeni" .
+
+<http://personuid.info/e8205b68-0af8-4faa-947d-0f22f3a3a77d> a schema:Person ;
+    schema:name "Nkosi Mphakanyiswa Gadla Henry" .
+

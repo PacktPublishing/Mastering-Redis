@@ -1,0 +1,8 @@
+info:
+  build: .
+  links:
+    - redis
+  ports:
+    - "8080:5001"
+redis:
+  image: redis
