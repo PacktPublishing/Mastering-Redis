@@ -2,7 +2,7 @@
 
 This is the code repository for [Mastering-Redis] (https://www.packtpub.com/big-data-and-business-intelligence/mastering-redis?utm_source=github&utm_medium=repository&utm_campaign=9781783988181), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
-## Chapter-wise software and OS specifications
+## Software and OS specifications
 
 * Chapter number: 1 to 10, Software required: Redis >= 3.0.3, OS required: Linux, MacOS
 * Chapter number: 2 to 10, Software required: Python 3.4, OS required: Linux, MacOS, Unix
