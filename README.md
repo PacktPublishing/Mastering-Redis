@@ -1,6 +1,6 @@
 # Mastering-Redis
 
-This is the code repository for [Mastering-Redis] (https://www.packtpub.com/big-data-and-business-intelligence/mastering-redis?utm_source=github&utm_medium=repository&utm_campaign=9781783988181), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code chapter-wise repository for [Mastering-Redis] (https://www.packtpub.com/big-data-and-business-intelligence/mastering-redis?utm_source=github&utm_medium=repository&utm_campaign=9781783988181), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## Software and OS specifications
 
