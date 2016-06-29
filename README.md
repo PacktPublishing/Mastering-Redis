@@ -18,7 +18,7 @@ This is the code chapter-wise repository for [Mastering-Redis] (https://www.pack
 * Chapter number: 7, Software required: MongoDB >= 3.0.5, OS, Elasticsearch >- 1.7.1, Fedora Commons > 4.3.0, R3 (http://heynemann.github.io/r3/) OS required: Windows, MacOS, Linux/Unix
 
  
- ## Related Redis books 
+ ## Related Redis books as follows:
 
 * [Learning Redis [Video]] (https://www.packtpub.com/big-data-and-business-intelligence/learning-redis-video?utm_source=github&utm_medium=repository&utm_campaign=9781784396596)
 * [Redis Essentials] (https://www.packtpub.com/big-data-and-business-intelligence/redis-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781784392451)
