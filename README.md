@@ -17,11 +17,6 @@ This is the code repository for [Mastering-Redis] (https://www.packtpub.com/big-
 * Chapter number: 6, Software required: Twemproxy >= 0.4.1, OS required: Linux/Unix/MacOS
 * Chapter number: 7, Software required: MongoDB >= 3.0.5, OS, Elasticsearch >- 1.7.1, Fedora Commons > 4.3.0, R3 (http://heynemann.github.io/r3/) OS required: Windows, MacOS, Linux/Unix
 
-
-![Bower version] (https://img.shields.io/bower/v/bootstrap.svg)
-
-
- 
  ## Redis books and videos
 
 * [Learning Redis [Video]] (https://www.packtpub.com/big-data-and-business-intelligence/learning-redis-video?utm_source=github&utm_medium=repository&utm_campaign=9781784396596)
