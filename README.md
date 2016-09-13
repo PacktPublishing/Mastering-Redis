@@ -22,7 +22,7 @@ This is the code repository for [Mastering-Redis] (https://www.packtpub.com/big-
 
 [![](https://github.com/PacktPublishing/Mastering-Redis/blob/master/Images/mapt-pplogo.png)](https://www.packtpub.com/books/subscription/mapt)
 
-### For more information on Mapt check our [![](https://github.com/PacktPublishing/Mastering-Redis/blob/master/Images/youtube1.png)] (https://www.youtube.com/watch?v=rljqYnpuQyg) video
+### For more information on Mapt check our [![](https://github.com/PacktPublishing/Mastering-Redis/blob/master/Images/Youtube.PNG)] (https://www.youtube.com/watch?v=rljqYnpuQyg) video
 
 
 ## Redis books and videos
