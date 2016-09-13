@@ -32,8 +32,6 @@ This is the code repository for [Mastering-Redis] (https://www.packtpub.com/big-
 * [Building Databases with Redis [Video]] (https://www.packtpub.com/big-data-and-business-intelligence/building-databases-redis-video?utm_source=github&utm_medium=repository&utm_campaign=9781783284115)
 
 
-Check our [![](https://github.com/PacktPublishing/Mastering-Redis/blob/master/Images/Packt%20social%20icon.jpg)](https://www.packtpub.com/) website to buy books and videos.
-
 
 
 
