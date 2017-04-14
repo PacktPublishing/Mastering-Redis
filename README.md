@@ -1,6 +1,6 @@
 # Mastering-Redis 
 
-This is the code repository for [Mastering-Redis] (https://www.packtpub.com/big-data-and-business-intelligence/mastering-redis?utm_source=github&utm_medium=repository&utm_campaign=9781783988181), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
+This is the code repository for [Mastering-Redis](https://www.packtpub.com/big-data-and-business-intelligence/mastering-redis?utm_source=github&utm_medium=repository&utm_campaign=9781783988181), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 
 ## Chapter-wise software and OS specifications
 
@@ -22,14 +22,14 @@ This is the code repository for [Mastering-Redis] (https://www.packtpub.com/big-
 
 [![](https://github.com/PacktPublishing/Mastering-Redis/blob/master/Images/mapt-pplogo.png)](https://www.packtpub.com/books/subscription/mapt)
 
-### For more information on Mapt check our [![](https://github.com/PacktPublishing/Mastering-Redis/blob/master/Images/Youtube.PNG)] (https://www.youtube.com/watch?v=rljqYnpuQyg) video
+### For more information on Mapt check our [![](https://github.com/PacktPublishing/Mastering-Redis/blob/master/Images/Youtube.PNG)](https://www.youtube.com/watch?v=rljqYnpuQyg) video
 
 
 ## Redis books and videos
 
-* [Learning Redis [Video]] (https://www.packtpub.com/big-data-and-business-intelligence/learning-redis-video?utm_source=github&utm_medium=repository&utm_campaign=9781784396596)
-* [Redis Essentials] (https://www.packtpub.com/big-data-and-business-intelligence/redis-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781784392451)
-* [Building Databases with Redis [Video]] (https://www.packtpub.com/big-data-and-business-intelligence/building-databases-redis-video?utm_source=github&utm_medium=repository&utm_campaign=9781783284115)
+* [Learning Redis [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-redis-video?utm_source=github&utm_medium=repository&utm_campaign=9781784396596)
+* [Redis Essentials](https://www.packtpub.com/big-data-and-business-intelligence/redis-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781784392451)
+* [Building Databases with Redis [Video]](https://www.packtpub.com/big-data-and-business-intelligence/building-databases-redis-video?utm_source=github&utm_medium=repository&utm_campaign=9781783284115)
 
 
 
